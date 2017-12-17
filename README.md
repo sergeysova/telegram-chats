@@ -19,6 +19,7 @@
 - 🦉 `Parcel` — https://t.me/parcel_ru
 - 🦉 `Webpack` — https://t.me/webpack_ru
 - 🦉 `Flow` — https://t.me/flow_ru
+- 🦉 `FRP` — https://t.me/frp_ru
 - 🦉 `Telegraf боты` — https://t.me/telegraf_ru
 - 🦉 `Visual Studio Code` — https://t.me/vscode_ru
 - 🦉 `Rust` — https://t.me/rustlang_ru
