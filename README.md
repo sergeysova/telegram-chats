@@ -1,4 +1,7 @@
-> ⭐️ — Creator
+> ⭐️ — Creator   
+> 🦉 — [Sergey Sova](https://t.me/sergeysova)   
+> 🐊 — [Croco](https://t.me/sergeycroco)   
+> 🍒 — [Nell Laureanar](https://t.me/nell_laureanar)
 
 # Сhats
 
