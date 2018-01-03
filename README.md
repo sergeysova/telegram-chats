@@ -3,10 +3,12 @@
 > 🐊 — [Croco](https://t.me/sergeycroco)   
 > 🦅 — [Eagle](https://t.me/sergeyeagle)
 > 🍒 — [Nell Laureanar](https://t.me/nell_laureanar)
+> 🤖 — [RuBot](https://t.me/ru_community_bot)
 
 # Сhats
 
 - 🦉 ⭐️ `Torrent / Tracker` — https://t.me/torrent_ru
+- 🦉 ⭐️ `Electrode` — https://t.me/electrode_ru
 - 🦉 ⭐️ `Electron` — https://t.me/electron_ru
 - 🦉 ⭐️ `MacOS` — https://t.me/macos_ru
 - 🦉 ⭐️ `Atomic Design for React` — https://t.me/atomicdesign
