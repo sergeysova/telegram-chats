@@ -1,6 +1,7 @@
 > ⭐️ — Creator   
 > 🦉 — [Sergey Sova](https://t.me/sergeysova)   
 > 🐊 — [Croco](https://t.me/sergeycroco)   
+> 🦅 — [Eagle](https://t.me/sergeyeagle)
 > 🍒 — [Nell Laureanar](https://t.me/nell_laureanar)
 
 # Сhats
@@ -14,6 +15,7 @@
 - 🐊 ⭐️ `Rollup` — https://t.me/rollup_ru
 - 🐊 ⭐️ `Git` — https://t.me/git_ru
 - 🐊 ⭐️ `IT Holywars` — https://t.me/it_holywars
+- 🦅 ⭐️ `PureScript` — https://t.me/purescript_ru
 
 - 🦉 `Sketch.app` — https://t.me/sketch_ru
 - 🦉 `Наставники и ученики` — https://t.me/mentor_ru
