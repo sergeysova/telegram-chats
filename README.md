@@ -12,7 +12,7 @@
 - 🦉 ⭐️ `Electron` — https://t.me/electron_ru 🤖
 - 🦉 ⭐️ `MacOS` — https://t.me/macos_ru 🤖
 - 🦉 ⭐️ `Atomic Design for React` — https://t.me/atomicdesign 🤖
-- 🐊 ⭐️ `Браузерные расширения` — https://t.me/extensions_ru
+- 🐊 ⭐️ `Браузерные расширения` — https://t.me/joinchat/AfBhxku5qFEfFij6nPG1sw
 - 🐊 ⭐️ `Rollup` — https://t.me/rollup_ru 🤖
 - 🐊 ⭐️ `Git` — https://t.me/git_ru 🤖
 - 🐊 ⭐️ `IT Holywars` — https://t.me/it_holywars 🤖
