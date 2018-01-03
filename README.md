@@ -1,7 +1,7 @@
 > ⭐️ — Creator   
 > 🦉 — [Sergey Sova](https://t.me/sergeysova)   
 > 🐊 — [Croco](https://t.me/sergeycroco)   
-> 🦅 — [Eagle](https://t.me/sergeyeagle)
+> 🦅 — [Eagle](https://t.me/sergeyeagle)   
 > 🍒 — [Nell Laureanar](https://t.me/nell_laureanar)    
 > 🤖 — [RuBot](https://t.me/ru_community_bot)    
 
